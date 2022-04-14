@@ -6,10 +6,11 @@ layout: default
 I am a third year doctoral researcher at Loughborough University under the supervision of [Andrea Soltoggio](https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/andrea-soltoggio/) and [Wen-Hua Chen](https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/). My research is focused on the development of lifelong learning agents capable of rapid adaptation and learning through the use of neuromodulation in neural networks. To this end, my research cuts across several areas in machine learning which includes: neuromodulation, neuroevolution, meta-reinforcement learning, continual learning, and hebbian learning. My work is funded by DARPA lifelong learning machines (L2M) and DARPA shared-experience lifelong learning (ShELL) projects.
 
 ## Preprint(s)
-- [Context Meta-Reinforcement Learning via Neuromodulation](https://arxiv.org/abs/2111.00134).  
-**E. Ben**, J. Dick, N.A. Ketz, P.K. Pilly, and A. Soltoggio. arXiv preprint arXiv:2111.00134. 2021
 
 ## Publications
+- [Context Meta-Reinforcement Learning via Neuromodulation](https://arxiv.org/abs/2111.00134).  
+**E. Ben**, J. Dick, N.A. Ketz, P.K. Pilly, and A. Soltoggio. Journal of Neural Networks, 2022.
+
 - [Deep reinforcement learning with modulated hebbian plus q-network architecture](https://ieeexplore.ieee.org/abstract/document/9547670).  
 P. Ladosz, **E. Ben**, J. Dick, N. Ketz, S. Kolouri, J. L. Krichmar, P. K. Pilly, and A. Soltoggio. IEEE Transactions on Neural Networks and Learning Systems, 2021.
 
