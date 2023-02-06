@@ -3,11 +3,16 @@ title: 'Ese Ben'
 layout: default
 ---
 
-I am a third year doctoral researcher at Loughborough University under the supervision of [Andrea Soltoggio](https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/andrea-soltoggio/) and [Wen-Hua Chen](https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/). My research is focused on the development of lifelong learning agents capable of rapid adaptation and learning through the use of neuromodulation in neural networks. To this end, my research cuts across several areas in machine learning which includes: neuromodulation, neuroevolution, meta-reinforcement learning, continual learning, and hebbian learning. My work is funded by DARPA lifelong learning machines (L2M) and DARPA shared-experience lifelong learning (ShELL) projects.
+I am a fourth year doctoral researcher at Loughborough University under the supervision of [Andrea Soltoggio](https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/andrea-soltoggio/) and [Wen-Hua Chen](https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/). My research is focused on the development of lifelong learning agents capable of rapid adaptation and continual learning through the use of neuromodulation in neural networks. To this end, my research cuts across several areas in machine learning which includes: neuromodulation, neuroevolution, meta-reinforcement learning, continual learning, and hebbian learning. My work is funded by DARPA lifelong learning machines (L2M) and DARPA shared-experience lifelong learning (ShELL) projects.
 
 ## Preprint(s)
+- [Lifelong Reinforcement Learning with Modulating Masks](https://arxiv.org/abs/2212.11110)
+E. Ben, S. Nath, P. K. Pilly, S. Kolouri, A. Soltoggio. Under review.
 
 ## Publications
+- [A domain-agnostic approach for characterization of lifelong learning systems](https://arxiv.org/abs/2301.07799).
+M. M. Baker, A. New, M. Aguilar-Simon, Z. Al-Halah, S. M. R. Arnold, **E. Ben**, A. P. Brna, E. Brooks, R. C. Brown, Z. Daniels, A. Daram, F. Delattre, R. Dellana, E. Eaton, H. Fu, K. Grauman, J. Hostetler, S. Iqbal, C. Kent, N. Ketz, S. Kolouri, G. Konidaris, D. Kudithipudi, E. Learned-Miller, S. Lee, M. L. Littman, S. Madireddy, J. A. Mendez, E. Q. Nguyen, C. D. Piatko, P. K. Pilly, A. Raghavan, A. Rahman, S. K. Ramakrishnan, N. Ratzlaff, A. Soltoggio, P. Stone, I. Sur, Z. Tang, S. Tiwari, K. Vedder, F. Wang, Z. Xu, A. Yanguas-Gil, H. Yedidsion, S. Yu, G. K. Vallabha. Journal of Neural Networks, 2023.
+
 - [Context Meta-Reinforcement Learning via Neuromodulation](https://arxiv.org/abs/2111.00134).  
 **E. Ben**, J. Dick, N.A. Ketz, P.K. Pilly, and A. Soltoggio. Journal of Neural Networks, 2022.
 
