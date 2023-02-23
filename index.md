@@ -6,8 +6,10 @@ layout: default
 I am a fourth year doctoral researcher at Loughborough University under the supervision of [Andrea Soltoggio](https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/andrea-soltoggio/) and [Wen-Hua Chen](https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/). My research is focused on the development of lifelong learning agents capable of rapid adaptation and continual learning through the use of neuromodulation in neural networks. To this end, my research cuts across several areas in machine learning which includes: neuromodulation, neuroevolution, meta-reinforcement learning, continual learning, and hebbian learning. My work is funded by DARPA lifelong learning machines (L2M) and DARPA shared-experience lifelong learning (ShELL) projects.
 
 ## Preprint(s)
+- [The configurable tree graph (CT-graph): measurable problems in partially observable and distal reward environments for lifelong reinforcement learning](https://arxiv.org/abs/2302.10887).  
+A. Soltoggio, **E. Ben**, C. Peridis, P. Ladosz, J. Dick, P. K. Pilly, S. Kolouri. 
 - [Lifelong Reinforcement Learning with Modulating Masks](https://arxiv.org/abs/2212.11110).  
-E. Ben, S. Nath, P. K. Pilly, S. Kolouri, A. Soltoggio. Under review.
+**E. Ben**, S. Nath, P. K. Pilly, S. Kolouri, A. Soltoggio. Under review.
 
 ## Publications
 - [A domain-agnostic approach for characterization of lifelong learning systems](https://arxiv.org/abs/2301.07799).  
