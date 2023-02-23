@@ -8,6 +8,7 @@ I am a fourth year doctoral researcher at Loughborough University under the supe
 ## Preprint(s)
 - [The configurable tree graph (CT-graph): measurable problems in partially observable and distal reward environments for lifelong reinforcement learning](https://arxiv.org/abs/2302.10887).  
 A. Soltoggio, **E. Ben**, C. Peridis, P. Ladosz, J. Dick, P. K. Pilly, S. Kolouri. 
+
 - [Lifelong Reinforcement Learning with Modulating Masks](https://arxiv.org/abs/2212.11110).  
 **E. Ben**, S. Nath, P. K. Pilly, S. Kolouri, A. Soltoggio. Under review.
 
