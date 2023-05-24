@@ -3,7 +3,7 @@ title: 'Ese Ben'
 layout: default
 ---
 
-I am a fourth year doctoral researcher at Loughborough University under the supervision of [Andrea Soltoggio](https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/andrea-soltoggio/) and [Wen-Hua Chen](https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/). My research is focused on the development of lifelong learning agents capable of rapid adaptation and continual learning through the use of neuromodulation in neural networks. To this end, my research cuts across several areas in machine learning which includes: neuromodulation, neuroevolution, meta-reinforcement learning, continual learning, and hebbian learning. My work is funded by DARPA lifelong learning machines (L2M) and DARPA shared-experience lifelong learning (ShELL) projects.
+I am a researcher and computer scientist, with interest in the investigation and development of general purpose intelligent systems, and their application in scientific (e.g., biology and health) and real-world problems. To this end, my research interests cut across several areas in machine learning which includes: lifelong learning, meta-reinforcement learning, continual learning, hebbian learning, neuromodulation and neuroevolution. Previously, I worked on two DARPA funded lifelong learning research programmes: lifelong learning machines (L2M) and shared-experience lifelong learning (ShELL).
 
 ## Preprint(s)
 - [The configurable tree graph (CT-graph): measurable problems in partially observable and distal reward environments for lifelong reinforcement learning](https://arxiv.org/abs/2302.10887).  
@@ -13,6 +13,9 @@ A. Soltoggio, **E. Ben**, C. Peridis, P. Ladosz, J. Dick, P. K. Pilly, S. Kolour
 **E. Ben**, S. Nath, P. K. Pilly, S. Kolouri, A. Soltoggio. Under review.
 
 ## Publications
+- [Sharing Lifelong Reinforcement Learning Knowledge via Modulating Masks](https://arxiv.org/abs/2305.10997).  
+S. Nath, C. Peridis, **E. Ben**, X. Liu, S. Dora, C. Liu, S. Kolouri, A. Soltoggio. Conference on Lifelong Learning Agents (CoLLAs), 2023
+
 - [A domain-agnostic approach for characterization of lifelong learning systems](https://arxiv.org/abs/2301.07799).  
 M. M. Baker, A. New, M. Aguilar-Simon, Z. Al-Halah, S. M. R. Arnold, **E. Ben**, A. P. Brna, E. Brooks, R. C. Brown, Z. Daniels, A. Daram, F. Delattre, R. Dellana, E. Eaton, H. Fu, K. Grauman, J. Hostetler, S. Iqbal, C. Kent, N. Ketz, S. Kolouri, G. Konidaris, D. Kudithipudi, E. Learned-Miller, S. Lee, M. L. Littman, S. Madireddy, J. A. Mendez, E. Q. Nguyen, C. D. Piatko, P. K. Pilly, A. Raghavan, A. Rahman, S. K. Ramakrishnan, N. Ratzlaff, A. Soltoggio, P. Stone, I. Sur, Z. Tang, S. Tiwari, K. Vedder, F. Wang, Z. Xu, A. Yanguas-Gil, H. Yedidsion, S. Yu, G. K. Vallabha. Journal of Neural Networks, 2023.
 
