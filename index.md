@@ -7,14 +7,17 @@ I am a researcher and computer scientist, with interest in the investigation and
 
 ## Preprint(s)
 - [The configurable tree graph (CT-graph): measurable problems in partially observable and distal reward environments for lifelong reinforcement learning](https://arxiv.org/abs/2302.10887).  
-A. Soltoggio, **E. Ben**, C. Peridis, P. Ladosz, J. Dick, P. K. Pilly, S. Kolouri. 
-
-- [Lifelong Reinforcement Learning with Modulating Masks](https://arxiv.org/abs/2212.11110).  
-**E. Ben**, S. Nath, P. K. Pilly, S. Kolouri, A. Soltoggio. Under review.
+A. Soltoggio, **E. Ben**, C. Peridis, P. Ladosz, J. Dick, P. K. Pilly, S. Kolouri.
 
 ## Publications
+- [A collective ai via lifelong learning and sharing at the edge](https://www.nature.com/articles/s42256-024-00800-2).  
+A. Soltoggio, **E. Ben**, V. Braverman, E. Eaton, B. Epstein, Y. Ge, L. Halperin, J. How, L. Itti, M. A. Jacobs, et al. Nature Machine Intelligence, vol. 6, no. 3, pp. 251–264, 2024.
+
 - [Sharing Lifelong Reinforcement Learning Knowledge via Modulating Masks](https://arxiv.org/abs/2305.10997).  
-S. Nath, C. Peridis, **E. Ben**, X. Liu, S. Dora, C. Liu, S. Kolouri, A. Soltoggio. Conference on Lifelong Learning Agents (CoLLAs), 2023
+S. Nath, C. Peridis, **E. Ben**, X. Liu, S. Dora, C. Liu, S. Kolouri, A. Soltoggio. Conference on Lifelong Learning Agents (CoLLAs), 2023.
+
+- [Lifelong Reinforcement Learning with Modulating Masks](https://arxiv.org/abs/2212.11110).  
+**E. Ben**, S. Nath, P. K. Pilly, S. Kolouri, A. Soltoggio. Transactions on Machine Learning Research (TMLR), 2023.  
 
 - [A domain-agnostic approach for characterization of lifelong learning systems](https://arxiv.org/abs/2301.07799).  
 M. M. Baker, A. New, M. Aguilar-Simon, Z. Al-Halah, S. M. R. Arnold, **E. Ben**, A. P. Brna, E. Brooks, R. C. Brown, Z. Daniels, A. Daram, F. Delattre, R. Dellana, E. Eaton, H. Fu, K. Grauman, J. Hostetler, S. Iqbal, C. Kent, N. Ketz, S. Kolouri, G. Konidaris, D. Kudithipudi, E. Learned-Miller, S. Lee, M. L. Littman, S. Madireddy, J. A. Mendez, E. Q. Nguyen, C. D. Piatko, P. K. Pilly, A. Raghavan, A. Rahman, S. K. Ramakrishnan, N. Ratzlaff, A. Soltoggio, P. Stone, I. Sur, Z. Tang, S. Tiwari, K. Vedder, F. Wang, Z. Xu, A. Yanguas-Gil, H. Yedidsion, S. Yu, G. K. Vallabha. Journal of Neural Networks, 2023.
