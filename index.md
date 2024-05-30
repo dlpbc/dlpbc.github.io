@@ -10,6 +10,9 @@ I am a researcher and computer scientist, with interest in the investigation and
 A. Soltoggio, **E. Ben**, C. Peridis, P. Ladosz, J. Dick, P. K. Pilly, S. Kolouri.
 
 ## Publications
+- [Statistical Context Detection for Deep Lifelong Reinforcement Learning](https://arxiv.org/abs/2405.19047).  
+J. Dick, S. Nath, C. Peridis, **E. Ben**, S. Kolouri, A. Soltoggio. Conference on Lifelong Learning Agents (CoLLAs), 2024.
+
 - [A collective ai via lifelong learning and sharing at the edge](https://www.nature.com/articles/s42256-024-00800-2).  
 A. Soltoggio, **E. Ben**, V. Braverman, E. Eaton, B. Epstein, Y. Ge, L. Halperin, J. How, L. Itti, M. A. Jacobs, et al. Nature Machine Intelligence, vol. 6, no. 3, pp. 251–264, 2024.
 
