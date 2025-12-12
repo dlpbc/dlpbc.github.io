@@ -6,12 +6,13 @@ layout: default
 I am a researcher and computer scientist with interests in the investigation and development of general purpose intelligent systems, and their application in scientific (e.g., biology and health) and real-world problems. To this end, my research interests cut across several areas in machine learning which include: reinforcement learning, meta-learning, lifelong learning, continual learning, Hebbian learning, neuromodulation, and neuroevolution. I currently work on the research and development of intelligent systems for air traffic control (aviation) problems exploiting reinforcement learning and imitation learning as the underpinning techniques. Previously, I worked on two DARPA-funded lifelong learning research programmes: lifelong learning machines (L2M) and shared-experience lifelong learning (ShELL).
 
 ## Preprint(s)
-- [Policy Search, Retrieval, and Composition via Task Similarity in Collaborative Agentic Systems](https://arxiv.org/abs/2506.05577)  
-S. Nath, C. Peridis, **E. Ben**, X. Liu, S. Kolouri, P. Kinnell, Z. Li, C. Liu, S. Dora, A. Soltoggio
 - [The configurable tree graph (CT-graph): measurable problems in partially observable and distal reward environments for lifelong reinforcement learning](https://arxiv.org/abs/2302.10887)  
 A. Soltoggio, **E. Ben**, C. Peridis, P. Ladosz, J. Dick, P. K. Pilly, S. Kolouri.
 
 ## Publications
+- [Policy Search, Retrieval, and Composition via Task Similarity in Collaborative Agentic Systems](https://arxiv.org/abs/2506.05577)  
+S. Nath, C. Peridis, **E. Ben**, X. Liu, S. Kolouri, P. Kinnell, Z. Li, C. Liu, S. Dora, A. Soltoggio. AAAI Conference on Artificial Intelligence, 2026.
+
 - [Statistical Context Detection for Deep Lifelong Reinforcement Learning](https://arxiv.org/abs/2405.19047)  
 J. Dick, S. Nath, C. Peridis, **E. Ben**, S. Kolouri, A. Soltoggio. Conference on Lifelong Learning Agents (CoLLAs), 2024.
 
