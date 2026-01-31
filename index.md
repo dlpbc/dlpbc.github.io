@@ -10,6 +10,12 @@ I am a researcher and computer scientist with interests in the investigation and
 A. Soltoggio, **E. Ben**, C. Peridis, P. Ladosz, J. Dick, P. K. Pilly, S. Kolouri.
 
 ## Publications
+- [Online Action-Stacking Improves Reinforcement Learning Performance for Air Traffic Control](https://arxiv.org/abs/2601.04287)  
+B. J. Carvell, G. De Ath, **E. Ben**, R. Everson. In AIAA SCITECH 2026 Forum (p. 2746), 2026.
+
+- [Towards Transparent AI Agents for Air Traffic Control](https://arc.aiaa.org/doi/abs/10.2514/6.2026-2869)  
+E. Mohamed, B. J. Carvell, R. Procter, **E. Ben**, G. De Ath, R. Everson. In AIAA SCITECH 2026 Forum (p. 2869), 2026.
+
 - [Policy Search, Retrieval, and Composition via Task Similarity in Collaborative Agentic Systems](https://arxiv.org/abs/2506.05577)  
 S. Nath, C. Peridis, **E. Ben**, X. Liu, S. Kolouri, P. Kinnell, Z. Li, C. Liu, S. Dora, A. Soltoggio. AAAI Conference on Artificial Intelligence, 2026.
 
